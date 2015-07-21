@@ -2,9 +2,7 @@ deps:
 
 ```
 $ bundle
-$ npm install express body-parser graphql --save
-$ npm install babel -g
-$ babel-node index.js
+$ npm install
 ```
 
 edit `request.rb` and run
